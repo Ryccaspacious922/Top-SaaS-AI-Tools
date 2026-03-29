@@ -34,59 +34,6 @@ Each category contains a clean markdown table with tool name, short use case, an
 
 ---
 
-
-## Cryptocurrency
-
-| Tools | Used For | 🔗 |
-|---|---|---|
-| AAX | AAX is a cryptocurrency exchange platform for trading digital assets | [🔗](https://aax.com) |
-| AceChange | AceChange is a cryptocurrency exchange platform for trading assets | [🔗](https://www.acechange.io) |
-| ArbitrageScanner | Scans cryptocurrency markets for profitable arbitrage opportunities | [🔗](https://arbitragescanner.io) |
-| BaseFEX | BaseFEX is a cryptocurrency derivatives exchange platform | [🔗](https://basefex.com) |
-| Binance | Cryptocurrency exchange for trading and managing digital assets | [🔗](https://binance.com) |
-| BitMEX | Cryptocurrency derivatives trading platform | [🔗](https://bitmex.com) |
-| Bitsgap | Bitsgap is a crypto trading bot platform for automated strategies | [🔗](https://bitsgap.com) |
-| Bityard | Cryptocurrency derivatives trading platform for global users | [🔗](https://bityard.com) |
-| Bybit | Cryptocurrency exchange for trading digital assets | [🔗](https://bybit.com) |
-| Changelly | Cryptocurrency exchange platform for buying selling and swapping | [🔗](https://changelly.com) |
-| ChangeNOW | Instant cryptocurrency exchange platform without registration | [🔗](https://changenow.io) |
-| Coinbase | Buy sell and store various cryptocurrencies securely | [🔗](https://coinbase.com) |
-| CoinPayments | Cryptocurrency payment processing and wallet services | [🔗](https://coinpayments.net) |
-| CoinRule | Automate cryptocurrency trading strategies with conditional rules | [🔗](https://coinrule.com) |
-| Cryptohopper | Automated cryptocurrency trading bot platform for users | [🔗](https://cryptohopper.com) |
-| Cryptosteel | Securely stores cryptocurrency recovery seeds offline | [🔗](https://cryptosteel.com) |
-| Delta Exchange | Cryptocurrency derivatives trading platform for advanced users | [🔗](https://delta.exchange) |
-| DipSway | DipSway helps users create personalized AI generated images | [🔗](https://dipsway.com) |
-| Exness | Online broker offering forex and CFD trading services | [🔗](https://www.exness.com) |
-| FixedFloat | Instant cryptocurrency exchange without registration | [🔗](https://ff.io) |
-| Fly Fairly | Compares flight prices and carbon emissions for travelers | [🔗](https://flyfairly.com) |
-| Godex | Godex is a non-custodial cryptocurrency exchange service | [🔗](https://godex.io) |
-| Guarda | Guarda offers secure cryptocurrency wallet and exchange services | [🔗](https://guarda.com) |
-| Hyperliquid | Decentralized perpetual futures trading platform | [🔗](https://hyperliquid.xyz) |
-| Kraken | Cryptocurrency exchange for buying selling and trading digital assets | [🔗](https://kraken.com) |
-| KuCoin | Cryptocurrency exchange for trading digital assets | [🔗](https://www.kucoin.com) |
-| Ledger Wallet | Securely stores cryptocurrency private keys offline | [🔗](https://www.ledger.com) |
-| LocalMonero | Peer to peer marketplace for buying and selling Monero | [🔗](https://localmonero.co) |
-| LunarCrush | Social intelligence platform for cryptocurrency market analysis | [🔗](https://lunarcrush.com) |
-| Nicegram | Nicegram enhances Telegram with extra features and customization | [🔗](https://nicegram.app) |
-| NOWPayments | Cryptocurrency payment gateway for businesses and individuals | [🔗](https://nowpayments.io) |
-| Poloniex | Cryptocurrency exchange for trading digital assets | [🔗](https://poloniex.com) |
-| Polymarket | A prediction market platform for trading on real-world events | [🔗](https://polymarket.com) |
-| PrimeXBT | Cryptocurrency trading platform offering leverage and various assets | [🔗](https://primexbt.com) |
-| SideShift | SideShift facilitates instant cryptocurrency exchanges across multiple chains | [🔗](https://sideshift.ai) |
-| Tothemoon | Tothemoon tracks cryptocurrency prices and NFT sales | [🔗](https://tothemoon.com) |
-| Travala | Book travel using cryptocurrency and fiat currencies | [🔗](https://www.travala.com) |
-| Trezor | Hardware wallets secure cryptocurrency private keys | [🔗](https://trezor.io) |
-| WhatExchange | Cryptocurrency exchange comparison and tracking tool | [🔗](https://www.what.exchange) |
-| XT.com | XTcom is a cryptocurrency exchange platform for trading digital assets | [🔗](https://www.xt.com) |
-
-## Dating
-
-| Tools | Used For | 🔗 |
-|---|---|---|
-| eHarmony | Online dating service matching compatible singles for serious relationships | [🔗](https://eharmony.com) |
-| TinderProfile.ai | AI tool creates optimized Tinder profiles and photos | [🔗](https://tinderprofile.ai) |
-
 ## Design
 
 | Tools | Used For | 🔗 |
@@ -208,28 +155,6 @@ Each category contains a clean markdown table with tool name, short use case, an
 | Wise | International money transfers and multi-currency accounts | [🔗](https://wise.com) |
 | Xero | Cloud accounting software for small businesses globally | [🔗](https://www.xero.com) |
 | Zeffy | Zeffy is a fundraising platform for nonprofits | [🔗](https://www.zeffy.com) |
-
-
-## Health
-
-| Tools | Used For | 🔗 |
-|---|---|---|
-| AlignerCo | AlignerCo provides clear aligner treatment planning software | [🔗](https://alignerco.com) |
-| BetterMe | Personalized fitness and mental wellness coaching app | [🔗](https://betterme.world) |
-| Beyond Body | Personalized weight loss and fitness plans through an app | [🔗](https://beyondbody.me) |
-| Bodybuilding.com | Fitness information supplements and community for building muscle | [🔗](https://bodybuilding.com) |
-| Calm | Meditation sleep and relaxation app for mental wellness | [🔗](https://www.calm.com) |
-| Care.com | Connects families with caregivers for various needs | [🔗](https://www.care.com) |
-| Grüns | Grüns is a platform for creating and sharing personalized digital greeting cards | [🔗](https://gruns.co) |
-| Lemme | Lemme is a platform for live video shopping experiences | [🔗](https://lemmelive.com) |
-| Orangetheory Fitness | Book Orangetheory Fitness classes and learn about their workouts | [🔗](https://www.orangetheory.com) |
-| partiQlar | partiQlar helps businesses find and connect with niche experts | [🔗](https://partiqlar.com) |
-| Practice Better | Practice Better manages client health and wellness practices | [🔗](https://practicebetter.io) |
-| Sully.ai | Sullyai builds custom AI agents for businesses | [🔗](https://www.sully.ai) |
-| Torokhtiy Weightlifting | Official site for Oleksiy Torokhtiy's weightlifting training and content | [🔗](https://torokhtiy.com) |
-| Viome | Personalized nutrition and wellness insights based on gut microbiome | [🔗](https://www.viome.com) |
-| WAATR | WAATR provides real-time water quality monitoring and data analysis | [🔗](https://waatr.com) |
-| WeightWatchers | WeightWatchers helps people lose weight and build healthy habits | [🔗](https://www.weightwatchers.com) |
 
 
 ## Hosting
